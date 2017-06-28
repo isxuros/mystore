@@ -1,0 +1,7 @@
+F:\Playground\MyStore\MyStore.Domain.Models\bin\Debug\MyStore.Domain.Models.dll
+F:\Playground\MyStore\MyStore.Domain.Models\bin\Debug\MyStore.Domain.Models.pdb
+F:\Playground\MyStore\MyStore.Domain.Models\obj\Debug\MyStore.Domain.Models.dll
+F:\Playground\MyStore\MyStore.Domain.Models\obj\Debug\MyStore.Domain.Models.pdb
+F:\Playground\MyStore\MyStore.Domain.Models\bin\Debug\Newtonsoft.Json.dll
+F:\Playground\MyStore\MyStore.Domain.Models\bin\Debug\Newtonsoft.Json.xml
+F:\Playground\MyStore\MyStore.Domain.Models\obj\Debug\MyStore.Domain.Models.csprojResolveAssemblyReference.cache

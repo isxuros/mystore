@@ -1,0 +1,16 @@
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\MyStore.Infra.Data.dll
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\MyStore.Infra.Data.pdb
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\MyStore.Domain.dll
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\MyStore.Domain.Models.dll
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\MyStore.Domain.Models.pdb
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\MyStore.Domain.pdb
+F:\Playground\MyStore\MyStore.Infra.Data\obj\Debug\MyStore.Infra.Data.csprojResolveAssemblyReference.cache
+F:\Playground\MyStore\MyStore.Infra.Data\obj\Debug\MyStore.Infra.Data.dll
+F:\Playground\MyStore\MyStore.Infra.Data\obj\Debug\MyStore.Infra.Data.pdb
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\MyStore.Infra.Data.dll.config
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\EntityFramework.dll
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\EntityFramework.xml
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\Newtonsoft.Json.dll
+F:\Playground\MyStore\MyStore.Infra.Data\bin\Debug\Newtonsoft.Json.xml
