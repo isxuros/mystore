@@ -5,6 +5,7 @@ using MyStore.Infra.Data.Employees;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
@@ -24,8 +25,11 @@ namespace MyStore.Controllers
         {
             try
             {
+                Expression<Func<Employee, Boolean>> filter
+                    = (e) => e.FirstName.Contains(searchTerm) ||
+                             e.LastName.Contains(searchTerm);
                 var employees =
-            this.repository.Retrieve((e) => e.FirstName.Contains(searchTerm),
+            this.repository.Retrieve(filter,
                 0, 10);
 
                 
